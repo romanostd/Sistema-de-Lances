@@ -1,0 +1,16 @@
+.bg-pink    {
+    background-color: #2E8BC0;
+}
+
+.bg-black{
+    background-color: #0C2D48;
+}
+
+.bg-dark-pink    {
+    background-color: #145DA0;
+}
+
+.position-right   {
+    position: absolute;
+    right: 0px ;
+}
